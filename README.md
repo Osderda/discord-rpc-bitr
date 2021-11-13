@@ -1,6 +1,8 @@
 # discord-rpc-bitr
-Discord Rich Presence - Discord RPC
-bitr
+Discord Rich Presence - Discord RPC bitr,
+Ücretsiz Sürümü: Hazır RPC(Valorant,Csgo,subnautica V.B) bulunmamaktadır, herşey el ile yapılmaktadır.
+Ücretli Sürümü: Hazır RPC ler bulunur, kendiniz özelleştirmeye gerek kalmazsınız, daha fazla oyun için
+istek yollayın. Discord rpc yapılandırmanızda yardım edecek araçlar vardır.
 # bitR
 Ücretsiz ve basit Discord oynuyor
 durum güncelleyici.
