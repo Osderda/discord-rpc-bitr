@@ -4,7 +4,7 @@ Discord Rich Presence - Discord RPC bitr,
 
 Ücretli Sürümü: Hazır RPC ler bulunur, kendiniz özelleştirmeye gerek kalmazsınız, daha fazla oyun için
 istek yollayın. Discord rpc yapılandırmanızda yardım edecek araçlar vardır. Yakında Discord tarafından onaylanmamış
-oyunları Discord Rpc olarak ayarlama sistemi gelicektir.
+oyunları Discord Rpc olarak ayarlama sistemi gelicektir ve YouTube destekli Rpc gelicektir.
 # bitR
 Ücretsiz ve basit Discord oynuyor
 durum güncelleyici.
