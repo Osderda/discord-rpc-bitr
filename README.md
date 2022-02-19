@@ -7,6 +7,7 @@ Discord Rich Presence - Discord RPC bitr,
 istek yollayın. Discord rpc yapılandırmanızda yardım edecek araçlar vardır. Yakında Discord tarafından onaylanmamış
 oyunları Discord Rpc olarak ayarlama sistemi gelicektir ve YouTube destekli Rpc gelicektir.
 
+Ücretli sürümğ satın almak için(5TRY): https://discord.gg/3k5aPZhdxR ! Osderda YM > etiketle.
 
 # bitR
 Ücretsiz ve basit Discord oynuyor
